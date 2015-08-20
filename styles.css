@@ -1,0 +1,42 @@
+body{
+
+	font-family: sans-serif;
+	line-height: 150%;
+	margin-top: 25px;
+	margin-left: 100px;
+	background-color: black;
+	color: white;
+	margin-right: 50px;
+	font-weight: lighter;
+
+}
+
+
+h1 {
+	color: orange;
+}
+
+.favColor
+{
+	color: orange;
+}
+
+
+p {
+	
+	font-size: 18px;
+}
+
+.body 
+{
+	margin-left: 100px;
+}
+
+img{
+	float: right;
+	height: 40%;
+	width: 40%;
+	vertical-align: top;
+	border-radius: 75px;
+    border: 0px;
+}
